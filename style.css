@@ -1,0 +1,17 @@
+/* Basic styling, you can customize as needed */
+#chat-container {
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+#message-container {
+  height: 300px;
+  overflow-y: scroll;
+}
+
+#message-input {
+  width: 100%;
+  padding: 5px;
+}
